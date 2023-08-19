@@ -1,5 +1,7 @@
 # React To-Do
 
+![image](https://github.com/Gustavo-Cruz-Pinheiro/react-to-do/assets/54116994/5866a677-ca38-41a5-8e99-17fe7947fecb)
+
 ![Status](http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=GREEN&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
