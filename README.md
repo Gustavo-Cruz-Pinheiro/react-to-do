@@ -42,7 +42,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com/Gustavo-Cruz-Pinheiro/react-to-do
+$ git clone https://github.com/Gustavo-Cruz-Pinheiro/react-to-do
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd react-to-do
