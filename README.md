@@ -12,7 +12,7 @@ O objetivo do projeto foi desenvolver uma aplicação web com a finalidade de ge
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-
+* React;
 * JavaScript;
 * VSCode;
 * MySQL;
