@@ -7,7 +7,7 @@
 
 ![image](https://github.com/Gustavo-Cruz-Pinheiro/react-to-do/assets/54116994/5866a677-ca38-41a5-8e99-17fe7947fecb)
 
-O objetivo do projeto foi desenvolver uma aplicação web com a finalidade de gerenciar To-Dos.
+O objetivo do projeto foi desenvolver uma aplicação web com a finalidade de gerenciar uma lista de a fazeres como teste de suficiência para a materia de Desenvolvimento Baseado em Frameworks durante o curso TADS.
 
 ## 🛠 Tecnologias
 
